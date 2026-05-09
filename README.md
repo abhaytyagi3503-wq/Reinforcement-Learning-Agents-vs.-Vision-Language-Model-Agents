@@ -1,4 +1,4 @@
-# ECE 621 Assignment 4 — Submission README
+# Reinforcement-Learning-Agents-vs.-Vision-Language-Model-Agents
 
 This package is organized to match the required Assignment 4 submission structure:
 - `train_dqn.py`
